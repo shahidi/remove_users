@@ -1,3 +1,7 @@
+A powerful command-line script can be utilized to efficiently remove multiple cPanel accounts by reading usernames from a text file. 
+This method streamlines the process, but it is crucial to understand the irreversible nature of the actions involved.
+
+
 To use the script, save it to a file (e.g., remove_users.sh), make it executable (chmod +x remove_users.sh), and then run it with the path to your text file of usernames as the argument (./remove_users.sh users_to_delete.txt).
 example txt file
 users_to_delete.txt
