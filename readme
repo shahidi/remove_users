@@ -1,0 +1,1 @@
+To use the script, save it to a file (e.g., remove_users.sh), make it executable (chmod +x remove_users.sh), and then run it with the path to your text file of usernames as the argument (./remove_users.sh usernames.txt).
